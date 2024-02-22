@@ -1,1 +1,18 @@
-# fullstack
+# PartyPlanner Pro: Advanced Party Event Management System
+
+Setup : 
+node -v
+v16.17.0
+
+SCAFFOLDING : 
+
+npx create-vite@latest my-react-app --template react     
+// @latest to use the latest libraries
+npm install
+npm run dev
+
+To change the port :  >> package.json
+“dev” : “vite - - port 4000”
+
+Tailwind Installation:-
+https://tailwindcss.com/docs/guides/create-react-app
